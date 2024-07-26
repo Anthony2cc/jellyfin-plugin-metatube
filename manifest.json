@@ -11,7 +11,7 @@
       {
         "checksum": "e81dff4910f8e45a0f462dbe2757351f",
         "changelog": "Auto Released by Actions",
-        "targetAbi": "10.9.0.0",
+        "targetAbi": "10.8.0.0",
         "sourceUrl": "https://github.com/metatube-community/jellyfin-plugin-metatube/releases/download/v2024.612.210.0/Jellyfin.MetaTube@v2024.612.210.0.zip",
         "timestamp": "2024-06-12T02:10:43Z",
         "version": "2024.612.210.0"
